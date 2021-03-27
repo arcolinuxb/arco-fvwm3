@@ -29,7 +29,7 @@ echo
 	desktop="fvwm3"
 	dmDesktop="fvwm3"
 
-	arcolinuxVersion='v21.03.11'
+	arcolinuxVersion='v21.05.1'
 
 	isoLabel='arcolinuxb-'$desktop'-'$arcolinuxVersion'-x86_64.iso'
 
